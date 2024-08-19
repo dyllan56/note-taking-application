@@ -47,6 +47,7 @@ This is a React-based note-taking application that allows users to create, edit,
 
     ```bash
     npm run dev
+    ```
 
     This will start the development server and open the application in your default browser.
 
